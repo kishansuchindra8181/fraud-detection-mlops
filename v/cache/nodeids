@@ -1,0 +1,10 @@
+[
+  "tests/test_api.py::test_health",
+  "tests/test_api.py::test_health_endpoint",
+  "tests/test_api.py::test_invalid_negative_or_nonfinite_values",
+  "tests/test_api.py::test_missing_feature",
+  "tests/test_api.py::test_prediction",
+  "tests/test_api.py::test_root",
+  "tests/test_api.py::test_root_endpoint",
+  "tests/test_api.py::test_valid_prediction"
+]
